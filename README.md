@@ -6,4 +6,4 @@ This repo contains the labs/python noteook for IE-7374
 3. Lab 2-b: Multi armed bandit problem with `nonstationary` rewards, `sample average` method with `epsilon-greedy` approach.
 4. Lab 2-c: Multi armed bandit problem with `nonstationary` rewards, `weighted average` method with `epsilon-greedy` approach.
 5. Lab 2-d: Multi armed bandit problem with `nonstationary` rewards, `weighted average` method with `epsilon-greedy` approach and `optimistic initial values`.
-6. Lab 5-e: Multi armed bandit problem with `nonstationary` rewards, `weighted average` method with both `epsilon-greedy` approach and `Upper Confidence Bound (UCB)` approach
+6. Lab 5-e: Multi armed bandit problem with `nonstationary` rewards, `weighted average` method with both `epsilon-greedy` approach and `Upper Confidence Bound (UCB)` approach.
